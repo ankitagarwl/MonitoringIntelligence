@@ -89,10 +89,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Accountparam.cs" />
+    <Compile Include="Account_Model.cs" />
     <Compile Include="LoginResponse.cs" />
+    <Compile Include="MemberID_Model.cs" />
+    <Compile Include="Projects_model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Result.cs" />
     <Compile Include="SOAmodel.cs" />
+    <Compile Include="testcls.cs" />
+    <Compile Include="vsts_project.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
